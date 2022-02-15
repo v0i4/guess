@@ -1,8 +1,9 @@
 # Guess
 
-**TODO: Add description**
+practicing some elixir funcional programming in this simple CLI game - test your luck into guess game!
 
 ## Installation
+after download the files, execute: mix run() in your terminal in the root of ffiles path.
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
 by adding `guess` to your list of dependencies in `mix.exs`:
