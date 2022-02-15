@@ -1,5 +1,4 @@
-# Guess
-
+# guess game
 practicing some elixir funcional programming in this simple CLI game - test your luck into guess game!
 
 ## Installation
